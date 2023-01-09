@@ -6,4 +6,4 @@
 	url = http://github.com/google/googletest.git
 [submodule "third_party/substrait"]
 	path = third_party/substrait
-	url = http://github.com/substrait-io/substrait.git
+	url = http://github.com/yma11/substrait.git
